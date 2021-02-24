@@ -1,0 +1,10 @@
+.Team {
+  border: 2px teal solid;
+  color: teal;
+  text-align: center;
+}
+.Game {
+  border: 5px teal solid;
+  text-align: center;
+  color: teal;
+}
